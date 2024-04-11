@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azamatg17&label=Profile%20views&color=0e75b6&style=flat" alt="azamatg17" /> </p>
 
-<p align="left"> <a href="https://twitter.com/azamatgiyosov" target="blank"><img src="https://img.shields.io/twitter/follow/azamatgiyosov?logo=twitter&style=for-the-badge" alt="azamatg17" /></a> </p>
+<p align="left"> <a href="[https://twitter.com/azamatgiyosov](https://twitter.com/AzamatG17)" target="blank"><img src="https://img.shields.io/twitter/follow/AzamatG17?logo=twitter&style=for-the-badge" alt="azamatg17" /></a> </p>
 
 - 🌱 I am currently in the process of learning **.Net Platform**
 
