@@ -8,7 +8,7 @@
 
 - 🌱 I am currently in the process of learning **.Net Platform**
 
-- 👨‍💻 All of my projects are available at [https://1drv.ms/b/c/1b0fbd5093c16488/AdLpuMxS4BBJl1lNRKV_Bcc?e=STuuGj](https://1drv.ms/b/c/1b0fbd5093c16488/AdLpuMxS4BBJl1lNRKV_Bcc?e=STuuGj)
+- 📄 Know about my experiences [https://1drv.ms/b/c/1b0fbd5093c16488/AdLpuMxS4BBJl1lNRKV_Bcc?e=STuuGj](https://1drv.ms/b/c/1b0fbd5093c16488/AdLpuMxS4BBJl1lNRKV_Bcc?e=STuuGj)
 
 - 📫 How to reach me **azamatgiasov04@gmail.com**
 
